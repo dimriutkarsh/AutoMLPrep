@@ -1,4 +1,4 @@
-# 🚀 Enhanced AutoML Dashboard
+# 🚀 AutoMLPrep
 
 <div align="center">
 
@@ -108,6 +108,7 @@ Compare results & download best model
 
 Make real-time or batch predictions
 
+```
 💡 Future Improvements
 
 Auto feature engineering
